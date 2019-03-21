@@ -5,7 +5,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Here you can find the projects developed related with the courses at Platzi.
 
 # social links
-hackerrank:@cinthya_cabanzo
+hackerrank: cinthya_cabanzo
 github_username:  cinthylli
 
 show_excerpts: true # set to false to remove excerpts on the homepage
