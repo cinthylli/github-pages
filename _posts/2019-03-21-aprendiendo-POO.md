@@ -1,3 +1,9 @@
+---
+title: "Tips para analizar usando el paradigma de Programacion Orientada a Objetos"
+date: 2019-03-21
+---
+
+
 # Programacion Orientada a Objetos
 ## Un paradigma que te simplifica la vida
 ### TIPS
